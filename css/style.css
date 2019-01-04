@@ -1,0 +1,86 @@
+.navbar {
+	background-color: #9E0005;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+.nav-item {
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.nav-link {
+	font-size: 32px;
+	font-family: 'Staatliches', cursive;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #ee4149;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+
+	color: #1f5be0;
+}
+
+a {
+	text-shadow: 2px 2px #000000;
+}
+
+a:hover {
+	color: white;
+}
+
+.fluid-container {
+	text-align: center;
+}
+
+.blockquote {
+	font-size: 6.25rem;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+#video {
+	padding: 0px 0px 50px 0px;
+}
+
+.footer {
+	text-align: center;
+}
+
+#footertxt {
+	margin: 0px 300px 0px 300px;
+}
+
+.h1 {
+	text-shadow: -5px 0 11px rgba(255, 255, 255, 1);
+	font-size: 80px;
+}
+
+buttonColor button {
+	background-color: white;
+}
+
+.btn-primary {
+	background-color: #000000;
+	border-color: white;
+	border-width: 3px;
+	padding-left: 45px;
+	padding-right: 45px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 27px;
+	font-family: 'Staatliches', cursive;
+}
+
+.btn-primary:hover {
+	background-color: #9E0005;
+	color: #ffffff;
+	border-color: #ffffff;
+	font-family: 'Staatliches', cursive;
+}
